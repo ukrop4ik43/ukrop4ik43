@@ -122,7 +122,7 @@ If the architecture is bad — it’s a **піздец**. I prefer doing it righ
 
 ## 🧪 Pet Projects
 
-### 📊 Expense & Income Tracker (Biggest Project)
+### 📊 Clean-Auto (Biggest Project)
 🔗 https://github.com/ukrop4ik43/auto_pet_project_lakhai
 
 Android application for tracking expenses and incomes.
