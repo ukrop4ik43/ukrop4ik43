@@ -123,8 +123,6 @@ I focus on clean architecture, predictable UI, and long-term maintainability.
 ### 📊 Clean-Auto (Biggest Project)
 🔗 https://github.com/ukrop4ik43/auto_pet_project_lakhai
 
-Android application for tracking expenses and incomes.
-
 **Tech stack:**
 - Jetpack Compose
 - Hilt (DI)
@@ -133,6 +131,8 @@ Android application for tracking expenses and incomes.
 - Retrofit
 - Multimodule architecture
 - Clean Architecture
+- Unit tests
+- MVI
 
 ---
 
