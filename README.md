@@ -21,9 +21,7 @@ I focus on clean architecture, predictable UI, and long-term maintainability.
 - 🤝 Worked closely with **QA, designers, and backend teams**
 - 🛠️ Use profilers and tooling to solve complex performance issues
 - 🤖 Use AI tools to speed up development without sacrificing quality
-
-If the architecture is bad — it’s a **піздец**. I prefer doing it right.
-
+- 
 ---
 
 ## 🧑‍💻 Tech Stack
