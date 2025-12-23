@@ -133,6 +133,7 @@ I focus on clean architecture, predictable UI, and long-term maintainability.
 - Clean Architecture
 - Unit tests
 - MVI
+- Room
 
 ---
 
