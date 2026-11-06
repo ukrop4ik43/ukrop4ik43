@@ -2,7 +2,7 @@
 
 **Android Developer | Kotlin | Jetpack Compose | Clean Architecture**
 
-Android developer with **3+ years of commercial experience** building scalable, high-performance mobile applications.  
+Android developer with **4+ years of commercial experience** building scalable, high-performance mobile applications.  
 I focus on clean architecture, predictable UI, and long-term maintainability.
 
 📍 Wroclaw, Poland  
